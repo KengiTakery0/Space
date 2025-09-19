@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7AB7B4F-89F6-4DC3-BC07-418B7EBAEAAB}|Space.Backend\\Space.Backend.csproj|a:\\work\\space\\src\\space.backend\\space.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F7AB7B4F-89F6-4DC3-BC07-418B7EBAEAAB}|Space.Backend\\Space.Backend.csproj|solutionrelative:space.backend\\space.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7AB7B4F-89F6-4DC3-BC07-418B7EBAEAAB}|Space.Backend\\Space.Backend.csproj|a:\\work\\space\\src\\space.backend\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AB7B4F-89F6-4DC3-BC07-418B7EBAEAAB}|Space.Backend\\Space.Backend.csproj|solutionrelative:space.backend\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Backend\\Models\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Space.Backend\\Models\\Entities\\User.cs",
-              "ToolTip": "A:\\Work\\Space\\src\\Space.Backend\\Models\\Entities\\User.cs",
-              "RelativeToolTip": "Space.Backend\\Models\\Entities\\User.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T10:45:28.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Space.Backend.csproj",
+              "Title": "Space.Backend",
               "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Backend\\Space.Backend.csproj",
               "RelativeDocumentMoniker": "Space.Backend\\Space.Backend.csproj",
               "ToolTip": "A:\\Work\\Space\\src\\Space.Backend\\Space.Backend.csproj",
               "RelativeToolTip": "Space.Backend\\Space.Backend.csproj",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-19T06:25:02.745Z",
               "EditorCaption": ""
