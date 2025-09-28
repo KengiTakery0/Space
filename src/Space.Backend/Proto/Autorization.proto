@@ -1,0 +1,14 @@
+﻿syntax ="proto3";
+
+option csharp_namespace = "Space.Backend.Proto";
+
+package Autorization;
+
+service Autorization
+{
+	// rpc metods
+}
+
+//Messages
+
+
