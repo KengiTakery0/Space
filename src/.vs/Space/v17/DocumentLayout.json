@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "A:\\Work\\Space\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|a:\\work\\space\\src\\spsce.front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|solutionrelative:spsce.front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\data\\repositories\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\data\\repositories\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|a:\\work\\space\\src\\spsce.front\\views\\home\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|solutionrelative:spsce.front\\views\\home\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\data\\repositories\\implimentations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\data\\repositories\\implimentations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|a:\\work\\space\\src\\spsce.front\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|solutionrelative:spsce.front\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|a:\\work\\space\\src\\spsce.front\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|solutionrelative:spsce.front\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\services\\interfaces\\iatuthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\services\\interfaces\\iatuthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|a:\\work\\space\\src\\spsce.front\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A868E86D-EE3F-4D08-BCF4-E80D71BE11B0}|Spsce.Front\\Spsce.Front.csproj|solutionrelative:spsce.front\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A2811B-BF6E-43F0-83A9-9B91A2BBBE21}|Space.Web\\Space.Web.csproj|a:\\work\\space\\src\\space.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A2811B-BF6E-43F0-83A9-9B91A2BBBE21}|Space.Web\\Space.Web.csproj|solutionrelative:space.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|a:\\work\\space\\src\\space.service.autorization\\space.service.autorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A9181D0-35B0-48E9-8AF5-C234AC5EC2E6}|Space.Service.Autorization\\Space.Service.Autorization.csproj|solutionrelative:space.service.autorization\\space.service.autorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,68 +66,113 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:42:16.915Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "A:\\Work\\Space\\src\\Spsce.Front\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Spsce.Front\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "A:\\Work\\Space\\src\\Spsce.Front\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Spsce.Front\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T00:30:53.295Z",
-              "EditorCaption": ""
+              "Title": "IAtuthService.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Services\\Interfaces\\IAtuthService.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Services\\Interfaces\\IAtuthService.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Services\\Interfaces\\IAtuthService.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Services\\Interfaces\\IAtuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:41:57.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "A:\\Work\\Space\\src\\Spsce.Front\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Spsce.Front\\Views\\Home\\Index.cshtml",
-              "ToolTip": "A:\\Work\\Space\\src\\Spsce.Front\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Spsce.Front\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T00:25:23.186Z",
-              "EditorCaption": ""
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Data\\AppDbContext.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:41:21.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "A:\\Work\\Space\\src\\Spsce.Front\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Spsce.Front\\Controllers\\HomeController.cs",
-              "ToolTip": "A:\\Work\\Space\\src\\Spsce.Front\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Spsce.Front\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBQAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T00:24:51.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "A:\\Work\\Space\\src\\Spsce.Front\\Program.cs",
-              "RelativeDocumentMoniker": "Spsce.Front\\Program.cs",
-              "ToolTip": "A:\\Work\\Space\\src\\Spsce.Front\\Program.cs",
-              "RelativeToolTip": "Spsce.Front\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T00:24:22.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T12:38:21.566Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginPage.cshtml",
-              "DocumentMoniker": "A:\\Work\\Space\\src\\Spsce.Front\\Views\\Home\\LoginPage.cshtml",
-              "RelativeDocumentMoniker": "Spsce.Front\\Views\\Home\\LoginPage.cshtml",
-              "ToolTip": "A:\\Work\\Space\\src\\Spsce.Front\\Views\\Home\\LoginPage.cshtml",
-              "RelativeToolTip": "Spsce.Front\\Views\\Home\\LoginPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T00:22:25.757Z",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\Repositories\\Implimentations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Data\\Repositories\\Implimentations\\UserRepository.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\Repositories\\Implimentations\\UserRepository.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Data\\Repositories\\Implimentations\\UserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:36:25.407Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Models\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Models\\Entity\\User.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Models\\Entity\\User.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Models\\Entity\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Data\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Data\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "RelativeToolTip": "Space.Service.Autorization\\Data\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:22:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Space.Service.Autorization.csproj",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Space.Service.Autorization.csproj",
+              "RelativeDocumentMoniker": "Space.Service.Autorization\\Space.Service.Autorization.csproj",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Service.Autorization\\Space.Service.Autorization.csproj",
+              "RelativeToolTip": "Space.Service.Autorization\\Space.Service.Autorization.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T11:22:26.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Work\\Space\\src\\Space.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Space.Web\\Program.cs",
+              "ToolTip": "A:\\Work\\Space\\src\\Space.Web\\Program.cs",
+              "RelativeToolTip": "Space.Web\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:50:42.764Z"
             }
           ]
         },

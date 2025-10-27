@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Proto\Autorization.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Google.Protobuf" Version="3.32.1" />
     <PackageReference Include="Google.Protobuf.Tools" Version="3.32.1" />
     <PackageReference Include="Grpc.AspNetCore" Version="2.71.0" />
@@ -23,6 +27,10 @@
     <Folder Include="Services\MapService\" />
     <Folder Include="Services\PropertyService\" />
     <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Proto\Autorization.proto" GrpcServices="Server" />
   </ItemGroup>
 
 </Project>

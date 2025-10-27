@@ -1,0 +1,6 @@
+@Space.Service.Autorization_HostAddress = http://localhost:5121
+
+GET {{Space.Service.Autorization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

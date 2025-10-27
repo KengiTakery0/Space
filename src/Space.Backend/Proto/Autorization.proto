@@ -7,8 +7,27 @@ package Autorization;
 service Autorization
 {
 	// rpc metods
+	rpc Rgistration(RegistrRequest) returns (RegistrResponse);
 }
 
 //Messages
+message RegistrRequest
+{
+  int32 id = 1;
+  string username = 2;
+  string email = 3;
+  string password = 4;
+  string confirm_password = 5;
+}
 
-
+message RegistrResponse
+{
+  bool success = 1;
+  string message = 2;
+  UserMessage user = 3;
+}
+message UserMessage {
+  int32 id = 1;
+  string username = 2;
+  string email = 3;
+}

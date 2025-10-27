@@ -9,11 +9,11 @@ namespace Space.Backend.Models.Enteties
     {
         [Key]
         [Required]
-        int Id { get; set; }
+        public int Id { get; set; }
 
         [Required]
         [StringLength(50)]
-        string Name { get; set; }
+        public string Name { get; set; }
 
         [Required]
         [StringLength(50)]
@@ -28,7 +28,7 @@ namespace Space.Backend.Models.Enteties
 
         [Required]
         [StringLength(50)]
-        string Email { get; set; }
+        public string Email { get; set; }
         [Required]
         [StringLength(50)]
         string PhoneNumber { get; set; }
