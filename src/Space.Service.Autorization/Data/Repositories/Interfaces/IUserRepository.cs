@@ -13,7 +13,10 @@ namespace Space.Service.Autorization.Data.Repositories.Interfaces
         Task<bool> ExistsByEmailAsync(string email);
         Task<bool> ExistsByPhoneAsync(string phone);
 
-     
+        Task<User?> GetByIdAsync(Guid id);
+        Task CreateAsync(User user);
+        Task UpdateAsync(User user);
+        Task DeleteAsync(Guid id);
 
     }
 }

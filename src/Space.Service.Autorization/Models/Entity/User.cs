@@ -3,7 +3,7 @@ namespace Space.Service.Autorization.Models.Entity
 {
     public class User
     {
-        Guid Id { get; set; } = new Guid();
+        Guid Id { get; set; } = Guid.NewGuid();
         // Profile data
         public string Name { get; set; }
         public string LastName { get; set; }
@@ -16,6 +16,7 @@ namespace Space.Service.Autorization.Models.Entity
         public bool Email_Verified { get; set; }
         public bool Phone_Verified { get; set; }
         public bool Is_Active { get; set; }
-
+        public DateTime Updated_At { get; set; }
+        public virtual UserSettings? Settings { get; set; }
     }
 }
